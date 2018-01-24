@@ -1,6 +1,6 @@
 {
   "name": "ember-echarts",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "ember addon for Baidu's ECharts",
   "keywords": [
     "ember-addon"
